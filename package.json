@@ -15,5 +15,8 @@
     "bugs": {
         "url": "https://github.com/Ewaoche/nics-pack/issues"
     },
-    "homepage": "https://github.com/Ewaoche/nics-pack#readme"
+    "homepage": "https://github.com/Ewaoche/nics-pack#readme",
+    "devDependencies": {
+        "mocha": "^9.1.3"
+    }
 }
