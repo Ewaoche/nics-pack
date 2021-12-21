@@ -1,0 +1,19 @@
+{
+    "name": "nics-pack",
+    "version": "0.0.2",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Ewaoche/nics-pack.git"
+    },
+    "author": "Mathew Ewaoche",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Ewaoche/nics-pack/issues"
+    },
+    "homepage": "https://github.com/Ewaoche/nics-pack#readme"
+}
